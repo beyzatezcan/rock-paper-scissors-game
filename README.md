@@ -3,9 +3,9 @@
 A fun and interactive Rock-Paper-Scissors game with additional choices like Fire, Water, Sponge, and Air. Play against the computer and see who wins the most rounds!
 
 # Features
--7 different choices: Rock, Paper, Scissors, Fire, Water, Sponge, Air
--3 rounds per game
--Play again option
+-7 different choices: Rock, Paper, Scissors, Fire, Water, Sponge, Air  
+-3 rounds per game  
+-Play again option  
 
 # How to Play
 -Run the game script.
