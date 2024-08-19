@@ -10,11 +10,11 @@ A fun and interactive Rock-Paper-Scissors game with additional choices like Fire
 
 ## How to Play 🤓
 -Run the game script.  
--Choose one of the following options: Rock, Paper, Scissors, Fire, Water, Sponge, Air.  
--The computer will randomly select its choice.  
--The game will determine the winner of each round based on the rules. 
--The game continues until either you or the computer wins 2 rounds. 
--After 3 rounds, the game will display the results and ask if you want to play again.
+-Choose one of the following options: Rock, Paper, Scissors, Fire, Water, Sponge, Air.    
+-The computer will randomly select its choice.      
+-The game will determine the winner of each round based on the rules.   
+-The game continues until either you or the computer wins 2 rounds.   
+-After 3 rounds, the game will display the results and ask if you want to play again.  
 -If you or the computer wish to exit, you can press 'x'.
 
 
@@ -46,13 +46,13 @@ Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir 
 -Oyundan çıkma seçeneği için 'x' tuşuna basabilirsiniz  
 
 ## Nasıl Oynanır 🤓
--Oyun script'ini çalıştırın.  
--Aşağıdaki seçeneklerden birini seçin: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava.  
--Bilgisayar rastgele bir seçim yapacak.  
--Oyun, biri 2 tur kazanana kadar devam eder.
--Oyun, kurallara göre her turun kazananını belirleyecek.  
--Oyun bitiminde tekrar oynamak isteyip istemediğiniz sorulacak.
--Oyunu bitirmek isterseniz 'x' tuşuna basabilirsiniz.
+-Oyun script'ini çalıştırın.    
+-Aşağıdaki seçeneklerden birini seçin: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava.    
+-Bilgisayar rastgele bir seçim yapacak.    
+-Oyun, biri 2 tur kazanana kadar devam eder.  
+-Oyun, kurallara göre her turun kazananını belirleyecek.    
+-Oyun bitiminde tekrar oynamak isteyip istemediğiniz sorulacak.  
+-Oyunu bitirmek isterseniz 'x' tuşuna basabilirsiniz.  
 
 ## Kurallar 🧐🤖
 -TAŞ > ATEŞ, MAKAS, SÜNGER  
