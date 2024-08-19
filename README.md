@@ -3,10 +3,10 @@
 A fun and interactive Rock-Paper-Scissors game with additional choices like Fire, Water, Sponge, and Air. Play against the computer and see who wins two rounds first!🥇🥳
 
 ## Features 🤩
--7 different choices: Rock, Paper, Scissors, Fire, Water, Sponge, Air  
--The game continues until one side wins 2 rounds  
--Play again option  
--Option to exit the game by pressing 'x'
+-7 different choices: Rock, Paper, Scissors, Fire, Water, Sponge, Air    
+-The game continues until one side wins 2 rounds    
+-Play again option    
+-Option to exit the game by pressing 'x'  
 
 ## How to Play 🤓
 -Run the game script.  
@@ -40,10 +40,10 @@ python game.py
 Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir Rock-Paper-Scissors oyunu. Bilgisayara karşı oynayın ve ilk 2 tur kazanan oyunu alsın! 🥇🥳
 
 ## Özellikler 🤩
--7 farklı seçenek: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava  
--Oyun, biri 2 tur kazanana kadar devam eder 
--Tekrar oynama seçeneği
--Oyundan çıkma seçeneği için 'x' tuşuna basabilirsiniz
+-7 farklı seçenek: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava    
+-Oyun, biri 2 tur kazanana kadar devam eder   
+-Tekrar oynama seçeneği  
+-Oyundan çıkma seçeneği için 'x' tuşuna basabilirsiniz  
 
 ## Nasıl Oynanır 🤓
 -Oyun script'ini çalıştırın.  
