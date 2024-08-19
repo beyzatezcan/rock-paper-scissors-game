@@ -1,18 +1,22 @@
 ## EN
 # ROCK-PAPER-SCISSORS GAME
-A fun and interactive Rock-Paper-Scissors game with additional choices like Fire, Water, Sponge, and Air. Play against the computer and see who wins the most rounds!
+A fun and interactive Rock-Paper-Scissors game with additional choices like Fire, Water, Sponge, and Air. Play against the computer and see who wins two rounds first!
 
 ## Features
 -7 different choices: Rock, Paper, Scissors, Fire, Water, Sponge, Air  
--3 rounds per game  
+-The game continues until one side wins 2 rounds  
 -Play again option  
+-Option to exit the game by pressing 'x'
 
 ## How to Play
 -Run the game script.  
 -Choose one of the following options: Rock, Paper, Scissors, Fire, Water, Sponge, Air.  
 -The computer will randomly select its choice.  
--The game will determine the winner of each round based on the rules.  
+-The game will determine the winner of each round based on the rules. 
+-The game continues until either you or the computer wins 2 rounds. 
 -After 3 rounds, the game will display the results and ask if you want to play again.
+-If you or the computer wish to exit, you can press 'x'.
+
 
 ## Rules
 -ROCK > FIRE, SCISSORS, SPONGE  
@@ -33,19 +37,22 @@ python game.py
 
 ## TR
 # TAŞ -KAGIT -MAKAS OYUNU
-Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir Rock-Paper-Scissors oyunu. Bilgisayara karşı oynayın ve en fazla turu kim kazandığını görün!
+Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir Rock-Paper-Scissors oyunu. Bilgisayara karşı oynayın ve ilk 2 tur kazanan oyunu alsın!
 
 ## Özellikler
 -7 farklı seçenek: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava  
--Her oyunda 3 tur  
+-Oyun, biri 2 tur kazanana kadar devam eder 
 -Tekrar oynama seçeneği
+-Oyundan çıkma seçeneği için 'x' tuşuna basabilirsiniz
 
 ## Nasıl Oynanır
 -Oyun script'ini çalıştırın.  
 -Aşağıdaki seçeneklerden birini seçin: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava.  
 -Bilgisayar rastgele bir seçim yapacak.  
+-Oyun, biri 2 tur kazanana kadar devam eder.
 -Oyun, kurallara göre her turun kazananını belirleyecek.  
--3 turdan sonra oyun sonuçları gösterecek ve tekrar oynamak isteyip istemediğinizi soracak.  
+-Oyun bitiminde tekrar oynamak isteyip istemediğiniz sorulacak.
+-Oyunu bitirmek isterseniz 'x' tuşuna basabilirsiniz.
 
 ## Kurallar
 -TAŞ > ATEŞ, MAKAS, SÜNGER  
