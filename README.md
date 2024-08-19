@@ -1,6 +1,6 @@
 ## EN
-# ROCK-PAPER-SCISSORS GAME
-A fun and interactive Rock-Paper-Scissors game with additional choices like Fire, Water, Sponge, and Air. Play against the computer and see who wins two rounds first!
+# ROCK-PAPER-SCISSORS GAME 🎮
+A fun and interactive Rock-Paper-Scissors game with additional choices like Fire, Water, Sponge, and Air. Play against the computer and see who wins two rounds first!🥇🥳
 
 ## Features
 -7 different choices: Rock, Paper, Scissors, Fire, Water, Sponge, Air  
@@ -18,7 +18,7 @@ A fun and interactive Rock-Paper-Scissors game with additional choices like Fire
 -If you or the computer wish to exit, you can press 'x'.
 
 
-## Rules
+## Rules🧐🤖
 -ROCK > FIRE, SCISSORS, SPONGE  
 -PAPER > ROCK, AIR, WATER  
 -SCISSORS > AIR, PAPER, SPONGE  
@@ -28,7 +28,7 @@ A fun and interactive Rock-Paper-Scissors game with additional choices like Fire
 -SPONGE > WATER, AIR, PAPER
 
 
-### Installation
+### Installation🚀
 Ensure you have Python installed. Clone the repository and run the game script:  
 git clone https://github.com/your-username/rock-paper-scissors.git  
 cd rock-paper-scissors  
@@ -36,8 +36,8 @@ python game.py
 
 
 ## TR
-# TAŞ -KAGIT -MAKAS OYUNU
-Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir Rock-Paper-Scissors oyunu. Bilgisayara karşı oynayın ve ilk 2 tur kazanan oyunu alsın!
+# TAŞ -KAGIT -MAKAS OYUNU🎮
+Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir Rock-Paper-Scissors oyunu. Bilgisayara karşı oynayın ve ilk 2 tur kazanan oyunu alsın!🥇🥳
 
 ## Özellikler
 -7 farklı seçenek: Taş, Kağıt, Makas, Ateş, Su, Sünger, Hava  
@@ -54,7 +54,7 @@ Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir 
 -Oyun bitiminde tekrar oynamak isteyip istemediğiniz sorulacak.
 -Oyunu bitirmek isterseniz 'x' tuşuna basabilirsiniz.
 
-## Kurallar
+## Kurallar🧐🤖
 -TAŞ > ATEŞ, MAKAS, SÜNGER  
 -KAĞIT > TAŞ, HAVA, SU  
 -MAKAS > HAVA, KAĞIT, SÜNGER  
@@ -63,7 +63,7 @@ Ateş, Su, Sünger ve Hava gibi ek seçeneklerle eğlenceli ve etkileşimli bir 
 -HAVA > SU, TAŞ, ATEŞ  
 -SÜNGER > SU, HAVA, KAĞIT    
 
-### Kurulum
+### Kurulum🚀
 Python'un kurulu olduğundan emin olun. Depoyu klonlayın ve oyun script'ini çalıştırın:  
 git clone https://github.com/your-username/rock-paper-scissors.git  
 cd rock-paper-scissors  
